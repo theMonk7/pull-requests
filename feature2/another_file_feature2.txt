@@ -1,0 +1,4 @@
+This file was added in the feature 2 branch 
+I am going to create another pull request 2
+
+This is another line in feature 2 branch.
